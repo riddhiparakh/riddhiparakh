@@ -23,7 +23,7 @@
 
   <h3 align="center">Languages, Tools, and Skills I Use:</h3>
 
-  <div class="skills">
+  <div align="center" style="text-align:center; background-color:white">
     <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"width="40" height="40" /> </a>
     <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> </a>
     <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi"width="40" height="40" /> </a>
@@ -37,7 +37,9 @@
     <a href="https://matplotlib.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib"width="40" height="40" /> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"width="40" height="40" /> </a>
     <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch"width="40" height="40" /> </a>
-    <a href="https://spacy.io/" target="_blank"> <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/static/img/logo.svg" alt="spacy" width="40" height="40"/> </a>
+      <br />
+<br />
+<br />
   </div>
 
   <div class="stats">
