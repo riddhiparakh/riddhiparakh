@@ -3,17 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Riddhi Parakh - Data Scientist</title>
+
 
 </head>
 <body>
 
   <h1 align="center">Hey! This is Riddhi Parakh.</h1>
-  <h3 align="center">I am passionate about natural language processing (NLP) and the transformative power of data in solving real-world problems. For me, data is not just numbers—it's a narrative waiting to be uncovered, a tool to drive impactful decisions, and a means to bridge gaps in understanding complex challenges.
+<p align="center" style="font-size:18px; line-height:1.6;">
+  I am passionate about natural language processing (NLP) and the transformative power of data in solving real-world problems. For me, data is not just numbers—it’s a narrative waiting to be uncovered, a tool to drive impactful decisions, and a means to bridge gaps in understanding complex challenges.
+</p>
 
-With a strong foundation in machine learning and a focus on NLP, I strive to create solutions that simplify processes, uncover insights, and empower decision-makers. I believe in the ideology that data, when used responsibly and creatively, has the potential to make the world more efficient, equitable, and connected.
+<p align="center" style="font-size:18px; line-height:1.6;">
+  With a strong foundation in machine learning and a focus on NLP, I strive to create solutions that simplify processes, uncover insights, and empower decision-makers. I believe in the ideology that data, when used responsibly and creatively, has the potential to make the world more efficient, equitable, and connected.
+</p>
 
-I'm always looking for opportunities to learn, innovate, and collaborate with individuals who share a vision of leveraging technology and data for meaningful change.</h3>
+<p align="center" style="font-size:18px; line-height:1.6;">
+  I’m always looking for opportunities to learn, innovate, and collaborate with individuals who share a vision of leveraging technology and data for meaningful change.
+</p>
+
   <h3 align="center">Languages, Tools, and Skills I Use:</h3>
 
   <div class="skills">
